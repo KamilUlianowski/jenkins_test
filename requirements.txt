@@ -1,0 +1,15 @@
+apipkg==1.4
+appdirs==1.4.0
+colorama==0.3.7
+execnet==1.4.1
+packaging==16.8
+py==1.4.32
+pyparsing==2.1.10
+pyreadline==2.1
+pytest==3.0.6
+pytest-html==1.14.2
+pytest-rerunfailures==2.1.0
+pytest-xdist==1.15.0
+selenium==3.7.0
+six==1.10.0
+Faker==0.7.11
